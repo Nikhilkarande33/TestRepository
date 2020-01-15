@@ -1,0 +1,24 @@
+{
+	"employess": {
+		"employee": [
+			{
+				"name": "Nikhil",
+				"email": "N.karande@crif.com",
+				"phnum": 8338,
+				"address": {
+					"city": "Pune",
+					"pin": "411"
+				}
+			},
+			{
+				"name": "Jay",
+				"email": "Jay.karande@crif.com",
+				"phnum": 7889,
+				"address": {
+					"city": "USA",
+					"pin": "422"
+				}
+			}
+		]
+	}
+}
